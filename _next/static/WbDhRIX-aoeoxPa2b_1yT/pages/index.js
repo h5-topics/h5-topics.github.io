@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["ce6e"],{H0SL:function(o,n,e){(window.__NEXT_P=window.__NEXT_P||[]).push(["/",function(){var o=e("cMU6");return{page:o.default||o}}])},cMU6:function(o,n,e){"use strict";e.r(n);var t=e("q1tI"),u=e.n(t);n.default=function(){return u.a.createElement("div",null,"nooooooooooooooooooop")}}},[["H0SL","5d41","9da1"]]]);
