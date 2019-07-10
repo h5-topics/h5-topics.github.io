@@ -20,20 +20,20 @@ self.__precacheManifest = [
     "revision": "c9d4f4ac318bec9c37e2"
   },
   {
-    "url": "/_next/static\\WbDhRIX-aoeoxPa2b_1yT\\pages\\_app.js",
-    "revision": "fa0c0fdb1da41bf99502"
+    "url": "/_next/static\\HOXAux_RGqWKG9aiDYIrR\\pages\\_app.js",
+    "revision": "c717c38ab766ae8c4e50"
   },
   {
-    "url": "/_next/static\\WbDhRIX-aoeoxPa2b_1yT\\pages\\_error.js",
-    "revision": "b40c2a24cdc0de9b83d0"
+    "url": "/_next/static\\HOXAux_RGqWKG9aiDYIrR\\pages\\_error.js",
+    "revision": "74a81adb7f900fbe7ff0"
   },
   {
-    "url": "/_next/static\\WbDhRIX-aoeoxPa2b_1yT\\pages\\index.js",
-    "revision": "aee60d81736c1333ad9d"
+    "url": "/_next/static\\HOXAux_RGqWKG9aiDYIrR\\pages\\index.js",
+    "revision": "456ed698687711ba94ac"
   },
   {
-    "url": "/_next/static\\WbDhRIX-aoeoxPa2b_1yT\\pages\\topic.js",
-    "revision": "0ac0671bcb15c5440af1"
+    "url": "/_next/static\\HOXAux_RGqWKG9aiDYIrR\\pages\\topic.js",
+    "revision": "389126cf67da1904fe0c"
   }
 ];
 

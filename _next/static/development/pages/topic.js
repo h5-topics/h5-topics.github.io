@@ -1639,6 +1639,7 @@ var MessageItem = function MessageItem(_ref) {
   }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("a", {
     className: "link with-whatsapp",
     "data-share": "whatsapp",
+    "data-url": location.href,
     __source: {
       fileName: _jsxFileName,
       lineNumber: 90
@@ -1719,6 +1720,7 @@ var MessageItem = function MessageItem(_ref) {
   }, react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("a", {
     className: "link with-facebook",
     "data-share": "facebook",
+    "data-url": location.href,
     onClick: closeExtendMenu,
     __source: {
       fileName: _jsxFileName,
@@ -1728,6 +1730,7 @@ var MessageItem = function MessageItem(_ref) {
   }), react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("a", {
     className: "link with-whatsapp",
     "data-share": "whatsapp",
+    "data-url": location.href,
     onClick: closeExtendMenu,
     __source: {
       fileName: _jsxFileName,
